@@ -1,0 +1,612 @@
+{
+  "versao": "1.0",
+  "repositorio": "https://github.com/LeandroPorta/DesignSystemR",
+  "instrucoes_agente": "Escolha por descricao/tags/orientacao. Baixe somente a imagem escolhida. full_bleed='nao_usar' (800px): limite a frames de ate meia largura do slide. Sempre crop/cover, nunca esticar.",
+  "imagens": [
+    {
+      "arquivo": "20250930_125708270_iOS.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/20250930_125708270_iOS.jpg",
+      "descricao": "Posto Shell novo visto de baixo, fachada branca e dia claro",
+      "tags": [
+        "posto",
+        "shell",
+        "varejo"
+      ],
+      "orientacao": "retrato",
+      "largura_px": 800,
+      "altura_px": 1200,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "20250930_135233410_iOS.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/20250930_135233410_iOS.jpg",
+      "descricao": "Posto Shell amplo com loja de conveniência ao fundo",
+      "tags": [
+        "posto",
+        "shell",
+        "varejo"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 1200,
+      "altura_px": 800,
+      "full_bleed": "aceitavel",
+      "uso_sugerido": "lateral, capa"
+    },
+    {
+      "arquivo": "_40A0803.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_40A0803.jpg",
+      "descricao": "Posto Shell com carro vermelho abastecendo, céu azul",
+      "tags": [
+        "posto",
+        "shell",
+        "varejo",
+        "abastecimento"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 1199,
+      "altura_px": 800,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, capa"
+    },
+    {
+      "arquivo": "_dsc1285-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc1285-low.jpg",
+      "descricao": "Tanque de combustível branco em contra-plongée com escada e céu azul",
+      "tags": [
+        "industrial",
+        "tanque",
+        "terminal"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 533,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "_dsc1351-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc1351-low.jpg",
+      "descricao": "Vista do alto de tanques de terminal com técnicos e pôr do sol",
+      "tags": [
+        "industrial",
+        "tanque",
+        "terminal",
+        "operacao"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 533,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "_dsc1473-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc1473-low.jpg",
+      "descricao": "Terminal de distribuição iluminado à noite, céu crepuscular",
+      "tags": [
+        "industrial",
+        "terminal",
+        "noturna"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 533,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, capitulo"
+    },
+    {
+      "arquivo": "_dsc1939_copy-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc1939_copy-low.jpg",
+      "descricao": "Colheitadeira despejando cana em transbordo no campo, céu azul",
+      "tags": [
+        "agro",
+        "colheita",
+        "cana",
+        "maquina"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 534,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, capitulo"
+    },
+    {
+      "arquivo": "_dsc4856-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc4856-low.jpg",
+      "descricao": "Trabalhador de colete acenando perto de transbordo carregado no canavial",
+      "tags": [
+        "agro",
+        "colheita",
+        "pessoas",
+        "seguranca"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 534,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "_dsc8082_2alta-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc8082_2alta-low.jpg",
+      "descricao": "Nariz de avião comercial em close, céu azul",
+      "tags": [
+        "aviacao",
+        "shell-aviation"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 534,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "_dsc8442_2-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc8442_2-low.jpg",
+      "descricao": "Caminhão-tanque Shell AeroJet em pátio de aeroporto",
+      "tags": [
+        "aviacao",
+        "shell-aviation",
+        "caminhao"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 534,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "_dsc8525_2alta-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc8525_2alta-low.jpg",
+      "descricao": "Turbina de avião em primeiro plano com caminhão-tanque Shell abastecendo",
+      "tags": [
+        "aviacao",
+        "shell-aviation",
+        "abastecimento"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 534,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, capitulo"
+    },
+    {
+      "arquivo": "_dsc8671_2-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc8671_2-low.jpg",
+      "descricao": "Caminhão-tanque sob a asa de aeronave em dia claro",
+      "tags": [
+        "aviacao",
+        "shell-aviation",
+        "caminhao"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 534,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "agricola1239-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola1239-low.jpg",
+      "descricao": "Colheita mecanizada de cana ao anoitecer com faróis acesos e céu dramático",
+      "tags": [
+        "agro",
+        "colheita",
+        "noturna",
+        "maquina"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 532,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, capitulo"
+    },
+    {
+      "arquivo": "agricola1254-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola1254-low.jpg",
+      "descricao": "Armazém de açúcar com montanha de açúcar e silhueta de trabalhador",
+      "tags": [
+        "industrial",
+        "acucar",
+        "armazem"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 549,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, capitulo"
+    },
+    {
+      "arquivo": "agricola1569-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola1569-low.jpg",
+      "descricao": "Canavial verde uniforme até o horizonte",
+      "tags": [
+        "agro",
+        "canavial",
+        "verde"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 532,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, fundo"
+    },
+    {
+      "arquivo": "agricola1580-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola1580-low.jpg",
+      "descricao": "Estrada de terra entre canaviais com veículo agrícola ao longe",
+      "tags": [
+        "agro",
+        "canavial",
+        "paisagem"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 513,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "agricola1590-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola1590-low.jpg",
+      "descricao": "Close de colmos de cana-de-açúcar roxos",
+      "tags": [
+        "agro",
+        "cana",
+        "close",
+        "textura"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 534,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, fundo"
+    },
+    {
+      "arquivo": "agricola1632-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola1632-low.jpg",
+      "descricao": "Folhas de cana verdes contra céu azul intenso",
+      "tags": [
+        "agro",
+        "canavial",
+        "verde",
+        "textura"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 532,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, fundo"
+    },
+    {
+      "arquivo": "agricola1715-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola1715-low.jpg",
+      "descricao": "Trator em operação no campo com usina ao fundo",
+      "tags": [
+        "agro",
+        "maquina",
+        "plantio"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 532,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "agricola1755-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola1755-low.jpg",
+      "descricao": "Silhueta de usina ao pôr do sol rosa e roxo",
+      "tags": [
+        "industrial",
+        "usina",
+        "por-do-sol",
+        "silhueta"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 533,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, capitulo"
+    },
+    {
+      "arquivo": "agricola1819-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola1819-low.jpg",
+      "descricao": "Usina em contraluz com céu dourado dramático",
+      "tags": [
+        "industrial",
+        "usina",
+        "por-do-sol",
+        "silhueta"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 532,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, capitulo"
+    },
+    {
+      "arquivo": "agricola1872-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola1872-low.jpg",
+      "descricao": "Estruturas de usina ao entardecer azul",
+      "tags": [
+        "industrial",
+        "usina",
+        "crepusculo"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 534,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "agricola2061-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola2061-low.jpg",
+      "descricao": "Transbordo de cana no campo limpo ao entardecer",
+      "tags": [
+        "agro",
+        "colheita",
+        "maquina"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 532,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "agricola2067-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola2067-low.jpg",
+      "descricao": "Comboio de transbordos de cana em contraluz dourado",
+      "tags": [
+        "agro",
+        "colheita",
+        "maquina",
+        "por-do-sol"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 532,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "agricola2083-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola2083-low.jpg",
+      "descricao": "Pulverizador agrícola laranja em operação no campo",
+      "tags": [
+        "agro",
+        "maquina",
+        "pulverizacao"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 532,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "agricola2157-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola2157-low.jpg",
+      "descricao": "Vista aérea de caminhões e colheita em talhões de cana",
+      "tags": [
+        "agro",
+        "aerea",
+        "colheita",
+        "logistica"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 532,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, capitulo"
+    },
+    {
+      "arquivo": "agricola2164-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola2164-low.jpg",
+      "descricao": "Vista aérea vertical de talhões verdes com estradas de terra vermelha",
+      "tags": [
+        "agro",
+        "aerea",
+        "canavial"
+      ],
+      "orientacao": "retrato",
+      "largura_px": 532,
+      "altura_px": 800,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "coluna vertical"
+    },
+    {
+      "arquivo": "agricola2208-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/agricola2208-low.jpg",
+      "descricao": "Estrutura industrial iluminada em tons laranja à noite",
+      "tags": [
+        "industrial",
+        "usina",
+        "noturna"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 532,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, capitulo"
+    },
+    {
+      "arquivo": "bip_5086-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/bip_5086-low.jpg",
+      "descricao": "Operador com capacete vermelho e EPI em frente a tanque com logo Raízen",
+      "tags": [
+        "pessoas",
+        "operacao",
+        "seguranca",
+        "raizen",
+        "epi"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 1200,
+      "altura_px": 800,
+      "full_bleed": "aceitavel",
+      "uso_sugerido": "lateral, capa"
+    },
+    {
+      "arquivo": "canavial_barra_3-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/canavial_barra_3-low.jpg",
+      "descricao": "Fileiras de cana recém-plantada em perspectiva, solo vermelho",
+      "tags": [
+        "agro",
+        "plantio",
+        "canavial",
+        "perspectiva"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 532,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral, capitulo"
+    },
+    {
+      "arquivo": "fotosusinaraizen4210.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/fotosusinaraizen4210.jpg",
+      "descricao": "Colaboradora sorridente com boné Raízen e colete em almoxarifado",
+      "tags": [
+        "pessoas",
+        "operacao",
+        "raizen",
+        "almoxarifado"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 1200,
+      "altura_px": 800,
+      "full_bleed": "aceitavel",
+      "uso_sugerido": "lateral, capa"
+    },
+    {
+      "arquivo": "fotosusinaraizen4257.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/fotosusinaraizen4257.jpg",
+      "descricao": "Operadora sorridente ao volante de máquina agrícola com uniforme Raízen",
+      "tags": [
+        "pessoas",
+        "operacao",
+        "raizen",
+        "maquina"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 1200,
+      "altura_px": 800,
+      "full_bleed": "aceitavel",
+      "uso_sugerido": "lateral, capa"
+    },
+    {
+      "arquivo": "g0157552-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/g0157552-low.jpg",
+      "descricao": "Equipe de plantio manual em campo aberto, lente olho de peixe",
+      "tags": [
+        "agro",
+        "plantio",
+        "pessoas",
+        "equipe"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 600,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "g0198928-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/g0198928-low.jpg",
+      "descricao": "Plantio mecanizado com trator distribuindo mudas de cana",
+      "tags": [
+        "agro",
+        "plantio",
+        "maquina"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 800,
+      "altura_px": 600,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "shared image (5).jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/shared%20image%20%285%29.jpg",
+      "descricao": "Posto Shell urbano com Pão de Açúcar ao fundo, Rio de Janeiro",
+      "tags": [
+        "posto",
+        "shell",
+        "varejo",
+        "rio-de-janeiro"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 1201,
+      "altura_px": 800,
+      "full_bleed": "aceitavel",
+      "uso_sugerido": "lateral, capa"
+    },
+    {
+      "arquivo": "tuv_0003-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/tuv_0003-low.jpg",
+      "descricao": "Dois colaboradores caminhando e conversando em escritório moderno",
+      "tags": [
+        "pessoas",
+        "escritorio",
+        "corporativo"
+      ],
+      "orientacao": "retrato",
+      "largura_px": 800,
+      "altura_px": 1200,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "coluna vertical"
+    },
+    {
+      "arquivo": "tuv_0116-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/tuv_0116-low.jpg",
+      "descricao": "Colaborador sorridente em pé junto a divisória de vidro no escritório",
+      "tags": [
+        "pessoas",
+        "escritorio",
+        "corporativo",
+        "retrato"
+      ],
+      "orientacao": "retrato",
+      "largura_px": 800,
+      "altura_px": 1200,
+      "full_bleed": "nao_usar",
+      "uso_sugerido": "coluna vertical"
+    },
+    {
+      "arquivo": "tuv_0125-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/tuv_0125-low.jpg",
+      "descricao": "Retrato de colaborador sorridente em escritório com vidro",
+      "tags": [
+        "pessoas",
+        "escritorio",
+        "corporativo",
+        "retrato"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 1200,
+      "altura_px": 800,
+      "full_bleed": "aceitavel",
+      "uso_sugerido": "lateral"
+    },
+    {
+      "arquivo": "tuv_0133-low.jpg",
+      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/tuv_0133-low.jpg",
+      "descricao": "Colaborador trabalhando em notebook em lounge de escritório",
+      "tags": [
+        "pessoas",
+        "escritorio",
+        "corporativo",
+        "trabalho"
+      ],
+      "orientacao": "paisagem",
+      "largura_px": 1200,
+      "altura_px": 800,
+      "full_bleed": "aceitavel",
+      "uso_sugerido": "lateral"
+    }
+  ]
+}
