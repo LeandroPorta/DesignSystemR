@@ -4,52 +4,6 @@
   "instrucoes_agente": "Escolha por descricao/tags/orientacao. Baixe somente a imagem escolhida. full_bleed='nao_usar' (800px): limite a frames de ate meia largura do slide. Sempre crop/cover, nunca esticar.",
   "imagens": [
     {
-      "arquivo": "20250930_125708270_iOS.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/20250930_125708270_iOS.jpg",
-      "descricao": "Posto Shell novo visto de baixo, fachada branca e dia claro",
-      "tags": [
-        "posto",
-        "shell",
-        "varejo"
-      ],
-      "orientacao": "retrato",
-      "largura_px": 800,
-      "altura_px": 1200,
-      "full_bleed": "nao_usar",
-      "uso_sugerido": "lateral"
-    },
-    {
-      "arquivo": "20250930_135233410_iOS.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/20250930_135233410_iOS.jpg",
-      "descricao": "Posto Shell amplo com loja de conveniência ao fundo",
-      "tags": [
-        "posto",
-        "shell",
-        "varejo"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 1200,
-      "altura_px": 800,
-      "full_bleed": "aceitavel",
-      "uso_sugerido": "lateral, capa"
-    },
-    {
-      "arquivo": "_40A0803.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_40A0803.jpg",
-      "descricao": "Posto Shell com carro vermelho abastecendo, céu azul",
-      "tags": [
-        "posto",
-        "shell",
-        "varejo",
-        "abastecimento"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 1199,
-      "altura_px": 800,
-      "full_bleed": "nao_usar",
-      "uso_sugerido": "lateral, capa"
-    },
-    {
       "arquivo": "_dsc1285-low.jpg",
       "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc1285-low.jpg",
       "descricao": "Tanque de combustível branco em contra-plongée com escada e céu azul",
@@ -120,65 +74,6 @@
         "colheita",
         "pessoas",
         "seguranca"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 800,
-      "altura_px": 534,
-      "full_bleed": "nao_usar",
-      "uso_sugerido": "lateral"
-    },
-    {
-      "arquivo": "_dsc8082_2alta-low.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc8082_2alta-low.jpg",
-      "descricao": "Nariz de avião comercial em close, céu azul",
-      "tags": [
-        "aviacao",
-        "shell-aviation"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 800,
-      "altura_px": 534,
-      "full_bleed": "nao_usar",
-      "uso_sugerido": "lateral"
-    },
-    {
-      "arquivo": "_dsc8442_2-low.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc8442_2-low.jpg",
-      "descricao": "Caminhão-tanque Shell AeroJet em pátio de aeroporto",
-      "tags": [
-        "aviacao",
-        "shell-aviation",
-        "caminhao"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 800,
-      "altura_px": 534,
-      "full_bleed": "nao_usar",
-      "uso_sugerido": "lateral"
-    },
-    {
-      "arquivo": "_dsc8525_2alta-low.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc8525_2alta-low.jpg",
-      "descricao": "Turbina de avião em primeiro plano com caminhão-tanque Shell abastecendo",
-      "tags": [
-        "aviacao",
-        "shell-aviation",
-        "abastecimento"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 800,
-      "altura_px": 534,
-      "full_bleed": "nao_usar",
-      "uso_sugerido": "lateral, capitulo"
-    },
-    {
-      "arquivo": "_dsc8671_2-low.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/_dsc8671_2-low.jpg",
-      "descricao": "Caminhão-tanque sob a asa de aeronave em dia claro",
-      "tags": [
-        "aviacao",
-        "shell-aviation",
-        "caminhao"
       ],
       "orientacao": "paisagem",
       "largura_px": 800,
@@ -434,23 +329,6 @@
       "uso_sugerido": "lateral, capitulo"
     },
     {
-      "arquivo": "bip_5086-low.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/bip_5086-low.jpg",
-      "descricao": "Operador com capacete vermelho e EPI em frente a tanque com logo Raízen",
-      "tags": [
-        "pessoas",
-        "operacao",
-        "seguranca",
-        "raizen",
-        "epi"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 1200,
-      "altura_px": 800,
-      "full_bleed": "aceitavel",
-      "uso_sugerido": "lateral, capa"
-    },
-    {
       "arquivo": "canavial_barra_3-low.jpg",
       "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/canavial_barra_3-low.jpg",
       "descricao": "Fileiras de cana recém-plantada em perspectiva, solo vermelho",
@@ -465,38 +343,6 @@
       "altura_px": 532,
       "full_bleed": "nao_usar",
       "uso_sugerido": "lateral, capitulo"
-    },
-    {
-      "arquivo": "fotosusinaraizen4210.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/fotosusinaraizen4210.jpg",
-      "descricao": "Colaboradora sorridente com boné Raízen e colete em almoxarifado",
-      "tags": [
-        "pessoas",
-        "operacao",
-        "raizen",
-        "almoxarifado"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 1200,
-      "altura_px": 800,
-      "full_bleed": "aceitavel",
-      "uso_sugerido": "lateral, capa"
-    },
-    {
-      "arquivo": "fotosusinaraizen4257.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/fotosusinaraizen4257.jpg",
-      "descricao": "Operadora sorridente ao volante de máquina agrícola com uniforme Raízen",
-      "tags": [
-        "pessoas",
-        "operacao",
-        "raizen",
-        "maquina"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 1200,
-      "altura_px": 800,
-      "full_bleed": "aceitavel",
-      "uso_sugerido": "lateral, capa"
     },
     {
       "arquivo": "g0157552-low.jpg",
@@ -527,85 +373,6 @@
       "largura_px": 800,
       "altura_px": 600,
       "full_bleed": "nao_usar",
-      "uso_sugerido": "lateral"
-    },
-    {
-      "arquivo": "shared image (5).jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/shared%20image%20%285%29.jpg",
-      "descricao": "Posto Shell urbano com Pão de Açúcar ao fundo, Rio de Janeiro",
-      "tags": [
-        "posto",
-        "shell",
-        "varejo",
-        "rio-de-janeiro"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 1201,
-      "altura_px": 800,
-      "full_bleed": "aceitavel",
-      "uso_sugerido": "lateral, capa"
-    },
-    {
-      "arquivo": "tuv_0003-low.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/tuv_0003-low.jpg",
-      "descricao": "Dois colaboradores caminhando e conversando em escritório moderno",
-      "tags": [
-        "pessoas",
-        "escritorio",
-        "corporativo"
-      ],
-      "orientacao": "retrato",
-      "largura_px": 800,
-      "altura_px": 1200,
-      "full_bleed": "nao_usar",
-      "uso_sugerido": "coluna vertical"
-    },
-    {
-      "arquivo": "tuv_0116-low.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/tuv_0116-low.jpg",
-      "descricao": "Colaborador sorridente em pé junto a divisória de vidro no escritório",
-      "tags": [
-        "pessoas",
-        "escritorio",
-        "corporativo",
-        "retrato"
-      ],
-      "orientacao": "retrato",
-      "largura_px": 800,
-      "altura_px": 1200,
-      "full_bleed": "nao_usar",
-      "uso_sugerido": "coluna vertical"
-    },
-    {
-      "arquivo": "tuv_0125-low.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/tuv_0125-low.jpg",
-      "descricao": "Retrato de colaborador sorridente em escritório com vidro",
-      "tags": [
-        "pessoas",
-        "escritorio",
-        "corporativo",
-        "retrato"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 1200,
-      "altura_px": 800,
-      "full_bleed": "aceitavel",
-      "uso_sugerido": "lateral"
-    },
-    {
-      "arquivo": "tuv_0133-low.jpg",
-      "url": "https://raw.githubusercontent.com/LeandroPorta/DesignSystemR/main/tuv_0133-low.jpg",
-      "descricao": "Colaborador trabalhando em notebook em lounge de escritório",
-      "tags": [
-        "pessoas",
-        "escritorio",
-        "corporativo",
-        "trabalho"
-      ],
-      "orientacao": "paisagem",
-      "largura_px": 1200,
-      "altura_px": 800,
-      "full_bleed": "aceitavel",
       "uso_sugerido": "lateral"
     }
   ]
